@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**4reeb-5yed/4reeb-5yed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Areeb Syed
 
-Here are some ideas to get you started:
+Applied AI • Cybersecurity • Systems Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+Building intelligence-oriented security tooling, analytical cryptographic systems, and offensive-simulation infrastructure.
+
+<br>
+
+## Systems
+
+### Caesar Cipher Pro
+
+Cryptographic analysis environment engineered for:
+
+- automated shift inference
+- statistical frequency analysis
+- confidence-evaluation models
+- analytical visualization pipelines
+- structured reporting systems
+
+<br>
+
+### AI Phishing Simulator
+
+Security-awareness simulation infrastructure focused on:
+
+- AI-assisted phishing generation
+- campaign orchestration
+- behavioral analytics
+- operator-facing dashboard systems
+- simulation workflow architecture
+
+<br>
+
+## Focus
+
+```txt
+Cybersecurity • Applied Machine Learning • Cryptography
+Analytical Systems • Full-Stack Engineering • Security Tooling
+```
+
+<br>
+
+## Stack
+
+```txt
+Python • JavaScript • React • Node.js • Express • MongoDB
+Tailwind CSS • Analytical Dashboards • AI Integration
+```
+
+<br>
+
+## Metrics
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=4reeb-5yed&show_icons=true&theme=transparent&hide_border=true"/>
+
+</div>
