@@ -55,11 +55,10 @@ Tailwind CSS • Analytical Dashboards • AI Integration
 ```
 
 <br>
-
 ## Metrics
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=4reeb-5yed&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=4reeb-5yed&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
 
 </div>
