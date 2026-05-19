@@ -57,6 +57,7 @@ Tailwind CSS • Analytical Dashboards • AI Integration
 </p>
 
 <br>
+
 ## Additional Profiles
 
 Previous development and experimental accounts:
