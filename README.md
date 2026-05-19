@@ -56,9 +56,10 @@ Tailwind CSS • Analytical Dashboards • AI Integration
 
 <br>
 ## Metrics
+## Activity
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=4reeb-5yed&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=4reeb-5yed&theme=github-dark&hide_border=true" />
+</p>
 
 </div>
