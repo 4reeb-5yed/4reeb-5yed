@@ -55,3 +55,11 @@ Tailwind CSS • Analytical Dashboards • AI Integration
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=4reeb-5yed&theme=github-dark&hide_border=true" />
 </p>
+
+<br>
+## Additional Profiles
+
+Previous development and experimental accounts:
+
+- [https://github.com/Areeb-Syed1](https://github.com/Areeb-Syed1)
+- [https://github.com/Hamza7313](https://github.com/Hamza7313)
