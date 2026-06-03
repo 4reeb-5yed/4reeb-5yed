@@ -64,3 +64,9 @@ Previous development and experimental accounts:
 
 - [https://github.com/Areeb-Syed1](https://github.com/Areeb-Syed1)
 - [https://github.com/Hamza7313](https://github.com/Hamza7313)
+
+## Support My Work
+
+<a href="https://www.paypal.com/ncp/payment/Y4SF3V9RXFZV2">
+  <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-yellow" alt="Buy Me a Coffee">
+</a>
