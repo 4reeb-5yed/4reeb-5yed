@@ -8,7 +8,7 @@ Applied AI • Cybersecurity • Systems Engineering
 
 <br>
 
-#Building intelligence-oriented security tooling, analytical cryptographic systems, and offensive-simulation infrastructure.
+# Building intelligence-oriented security tooling, analytical cryptographic systems, and offensive-simulation infrastructure.
 
 <br>
 
