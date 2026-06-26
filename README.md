@@ -12,29 +12,6 @@ Building intelligence-oriented security tooling, analytical cryptographic system
 
 <br>
 
-## Systems
-
-### Caesar Cipher Pro
-
-Cryptographic analysis environment engineered for:
-
-- automated shift inference
-- statistical frequency analysis
-- confidence-evaluation models
-- analytical visualization pipelines
-
-<br>
-
-### AI Phishing Simulator
-
-Security-awareness simulation infrastructure focused on:
-
-- AI-assisted phishing generation
-- campaign orchestration
-- behavioral analytics
-- operator-facing dashboard systems
-
-<br>
 
 ## Focus
 
